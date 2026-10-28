@@ -8,12 +8,12 @@ REAL photos of Monica's own work and printer (from her, 2026-10-28):
   canvas.jpg         Ferndale, Maryland map print on canvas
   photographers.jpg  historical photo portraits printed large for a car-top display (soft: small crop)
   finishing.jpg      grommet close-up on the yard-sale banner
+  design.jpg         custom "Please use driveway gate" sign
 
-AI-generated STAND-INS still in place (replace before launch):
-  cards.jpg          postcards / flyers flat-lay (no people)
-  design.jpg         shows an AI-generated woman who resembles Monica; replace first
-  spare/             three unused AI tiles; safe to delete
+Still an AI-generated stand-in:
+  cards.jpg          postcards / flyers flat-lay (no people); replace with a real card or flyer job
 
-Not used on purpose (customer names, children, school, or a license plate): the Monroe
-promotion banner, the birthday banner, the frog-art window, the rear car photo, the Hampton
-poster (needs the client's OK). Keep each file under ~300 KB for fast phone loads.
+Held back pending Monica's OK (not published): the Monroe promotion banner and birthday banner
+(her child's name; school name), the Hampton University poster (client name), the frog-art
+window / Frog City poster. Not usable: the rear car photo (license plate).
+Keep each file under ~300 KB for fast phone loads.
